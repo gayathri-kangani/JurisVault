@@ -1,0 +1,7 @@
+# Ignore node_modules folders
+node_modules/
+
+# Ignore smart contract build artifacts
+smart_contract/artifacts/
+smart_contract/cache/
+smart_contract/node_modules/
